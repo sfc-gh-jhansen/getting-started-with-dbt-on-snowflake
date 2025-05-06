@@ -1,5 +1,5 @@
-USE ROLE accountadmin;
-USE WAREHOUSE tasty_bytes_dbt_wh;
+--USE ROLE accountadmin;
+--USE WAREHOUSE tasty_bytes_dbt_wh;
 
 CREATE OR REPLACE DATABASE tb_101; -- source
 CREATE OR REPLACE SCHEMA tb_101.raw;
